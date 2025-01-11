@@ -35,9 +35,10 @@ public class Fabula extends Escrito {
     }
 
     // Getters y Setters
-    public String getEnsenanzas() {
+    public String getEnsenanza() {
         return ensenanzas;
     }
+    
 
     public void setEnsenanzas(String ensenanzas) {
         this.ensenanzas = ensenanzas;
